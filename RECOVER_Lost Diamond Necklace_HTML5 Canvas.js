@@ -16206,7 +16206,7 @@ lib.properties = {
 		{src:"images/RECOVER_Lost Diamond Necklace_HTML5 Canvas_atlas_19.png?1683909880497", id:"RECOVER_Lost Diamond Necklace_HTML5 Canvas_atlas_19"},
 		{src:"images/RECOVER_Lost Diamond Necklace_HTML5 Canvas_atlas_20.png?1683909880497", id:"RECOVER_Lost Diamond Necklace_HTML5 Canvas_atlas_20"},
 		{src:"sounds/but2.mp3?1683909881591", id:"but2"},
-		{src:"sounds/_short.mp3?1683909881591", id:"_short"},
+		{src:"sounds/short.mp3?1683909881591", id:"short"},
 		{src:"sounds/close.mp3?1683909881591", id:"close"},
 		{src:"sounds/bgSound.mp3?1683909881591", id:"bgSound"},
 		{src:"sounds/but.mp3?1683909881591", id:"but"},
